@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ElisaSky
-- 👀 I’m interested in ...
+- 👀 I’m interested in nature, gardening, cats
 - 🌱 I’m currently learning CSS HTML JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reachable via https://www.linkedin.com/in/mbuining/
 
 <!---
 ElisaSky/ElisaSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
