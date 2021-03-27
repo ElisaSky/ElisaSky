@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElisaSky
 - 👀 I’m interested in nature, gardening, cats
-- 🌱 I’m currently learning CSS HTML JS
+- 🌱 I’m currently learning CSS HTML JS React
 - 📫 Reachable via https://www.linkedin.com/in/mbuining/
 
 <!---
